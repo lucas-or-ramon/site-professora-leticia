@@ -2,19 +2,6 @@
 
 ## 🔍 Como Testar a Responsividade
 
-### Opção 1: Chrome Developer Tools (Recomendado)
-
-```
-1. Abra o site no Chrome
-2. Pressione: F12 (ou Ctrl+Shift+I no Windows/Linux, Cmd+Option+I no Mac)
-3. Clique no ícone de celular 📱 (canto superior esquerdo)
-4. Escolha diferentes tamanhos:
-   - iPhone 12: 390 x 844px
-   - Samsung Galaxy S21: 360 x 800px
-   - Tablet: 768 x 1024px
-5. Use o slider para testar qualquer tamanho
-```
-
 ### Opção 2: Testar no Seu Celular Real
 
 ```
