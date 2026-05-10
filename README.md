@@ -2,15 +2,6 @@
 
 Um website elegante e responsivo para professora de ballet, desenvolvido com HTML5, CSS3 e JavaScript puro. Hospedagem 100% gratuita no GitHub Pages.
 
-## 📋 Características
-
-✅ **Design Responsivo** - Funciona perfeitamente em desktop, tablet e mobile
-✅ **Otimizado para SEO** - Meta tags e estrutura semântica
-✅ **Sem Dependências** - HTML, CSS e JavaScript puro (zero configuração)
-✅ **Hospedagem Gratuita** - GitHub Pages (custo zero)
-✅ **Rápido e Leve** - Carregamento rápido e excelente performance
-✅ **Acessível** - Segue boas práticas de acessibilidade
-
 ## 📂 Estrutura de Arquivos
 
 ```
